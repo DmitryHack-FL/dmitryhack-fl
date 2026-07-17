@@ -16,7 +16,7 @@
 ![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=dmitryhack-fl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
+<!-- 
 🏆 **GitHub Trophies:**
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=dmitryhack-fl&theme=radical)
@@ -27,8 +27,8 @@
 
 ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=dmitryhack-fl&limit=5&theme=dark)
 
----
-
+--- 
+-->
 👁️ **Profile Views:**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dmitryhack-fl)
