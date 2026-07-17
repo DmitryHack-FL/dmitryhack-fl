@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dmitry /h1>
+<h1 align="center">Hi 👋, I'm Dmitry </h1>
 
 # 💫 About Me:
 🔭 I'm currently building a side project that will probably be obsolete by the time I finish it.<br>👯 I'm looking to collaborate on open-source projects written in Python, JavaScript, or Go — the more niche, the better.<br>🤝 I'm looking for help with understanding my own code from last month.<br>🌱 I'm currently learning how to say "no" to feature requests politely.<br>💬 Feel free to ask me about anything except my commit history.<br>⚡ A fun fact about me is that my keyboard has a custom undo shortcut because I use it that often.
