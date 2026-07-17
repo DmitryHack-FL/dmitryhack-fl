@@ -20,14 +20,11 @@
 
 ---
 
-🏆 **GitHub Trophies**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dmitryhack-fl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=dmitryhack-fl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dmitryhack-fl&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-🔝 **Top Contributed Repo**
-
-![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=dmitryhack-fl&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-[![](https://komarev.com/ghpvc/?username=dmitryhack-fl &icon=0&color=7)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=dmitryhack-fl&color=7)
